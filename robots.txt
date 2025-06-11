@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://venmo-customer-service.vercel.app/sitemap.xml
